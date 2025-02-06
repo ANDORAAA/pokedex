@@ -1,8 +1,9 @@
-# React + Vite
+A **Pokédex app** built with **React** that fetches Pokémon data from the [PokéAPI](https://pokeapi.co/), allowing users to browse, search, and learn about their favorite Pokémon!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔎 **Search for Pokémon** by name or ID
+- 📸 **Displays Pokémon Images** and details
+- 📊 **Shows Stats, Abilities, and Types**
+- 🌍 **Fetches Real-time Data** from [PokéAPI](https://pokeapi.co/)
+- 🎨 **Responsive & Modern UI**
