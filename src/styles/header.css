@@ -23,6 +23,13 @@ header nav img {
   gap: 0.2rem;
 }
 
+.search-wrapper button {
+  border: none;
+  background-color: transparent;
+  font-size: 1.4rem;
+  cursor: pointer;
+}
+
 .search-wrapper input {
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 5px;
